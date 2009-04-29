@@ -1,0 +1,525 @@
+
+
+Processing Rails::InfoController#properties (for 127.0.0.1 at 2009-04-29 00:18:39) [GET]
+  [4;36;1mSQL (0.4ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+Completed in 16ms (View: 2, DB: 0) | 200 OK [http://localhost/rails/info/properties]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-29 00:19:26) [GET]
+
+ActionController::RoutingError (No route matches "/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-29 00:19:37) [GET]
+
+ActionController::RoutingError (No route matches "/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-29 00:25:40) [GET]
+
+ActionController::RoutingError (No route matches "/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-29 00:26:01) [GET]
+
+ActionController::RoutingError (No route matches "/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing PagesController#index (for 127.0.0.1 at 2009-04-29 00:26:06) [GET]
+
+ActionController::UnknownAction (No action responded to index. Actions: about, contact, home, and resources):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing PagesController#home (for 127.0.0.1 at 2009-04-29 00:26:18) [GET]
+Rendering pages/home
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/pages/home]
+
+
+Processing PagesController#about (for 127.0.0.1 at 2009-04-29 00:26:27) [GET]
+Rendering pages/about
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://localhost/pages/about]
+
+
+Processing PagesController#resources (for 127.0.0.1 at 2009-04-29 00:26:32) [GET]
+Rendering pages/resources
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/pages/resources]
+
+
+Processing PagesController#resources (for 127.0.0.1 at 2009-04-29 00:28:34) [GET]
+Rendering pages/resources
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/resources]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2009-04-29 00:28:38) [GET]
+Rendering pages/home
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/pages/home]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2009-04-29 00:29:23) [GET]
+Rendering pages/home
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/pages/home]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2009-04-29 00:29:43) [GET]
+Rendering pages/home
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/home]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2009-04-29 00:29:44) [GET]
+Rendering pages/home
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/pages/home]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2009-04-29 00:29:44) [GET]
+Rendering pages/home
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/home]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2009-04-29 00:29:44) [GET]
+Rendering pages/home
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/home]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2009-04-29 00:29:45) [GET]
+Rendering pages/home
+Completed in 6ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/home]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2009-04-29 00:29:45) [GET]
+Rendering pages/home
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/home]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2009-04-29 00:29:45) [GET]
+Rendering pages/home
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/home]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2009-04-29 00:29:45) [GET]
+Rendering pages/home
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/home]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2009-04-29 00:29:46) [GET]
+Rendering pages/home
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/home]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2009-04-29 00:29:46) [GET]
+Rendering pages/home
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/home]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2009-04-29 00:29:46) [GET]
+Rendering pages/home
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/home]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2009-04-29 00:29:46) [GET]
+Rendering pages/home
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/home]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2009-04-29 00:34:58) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+
+ActionView::TemplateError (undefined local variable or method `yeld' for #<ActionView::Base:0x1a1ea2c>) on line #11 of app/views/layouts/application.html.erb:
+8: 	</head>
+9: 
+10: 	<body>
+11: 		<%= yeld %>
+12: 	</body>
+13: </html>
+
+    app/views/layouts/application.html.erb:11
+
+Rendered rescues/_trace (45.5ms)
+Rendered rescues/_request_and_response (1.4ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing PagesController#home (for 127.0.0.1 at 2009-04-29 00:35:00) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+
+ActionView::TemplateError (undefined local variable or method `yeld' for #<ActionView::Base:0x378a70>) on line #11 of app/views/layouts/application.html.erb:
+8: 	</head>
+9: 
+10: 	<body>
+11: 		<%= yeld %>
+12: 	</body>
+13: </html>
+
+    app/views/layouts/application.html.erb:11
+
+Rendered rescues/_trace (41.6ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing PagesController#home (for 127.0.0.1 at 2009-04-29 00:35:01) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+
+ActionView::TemplateError (undefined local variable or method `yeld' for #<ActionView::Base:0x12a4620>) on line #11 of app/views/layouts/application.html.erb:
+8: 	</head>
+9: 
+10: 	<body>
+11: 		<%= yeld %>
+12: 	</body>
+13: </html>
+
+    app/views/layouts/application.html.erb:11
+
+Rendered rescues/_trace (39.1ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing PagesController#home (for 127.0.0.1 at 2009-04-29 00:35:19) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/pages/home]
+
+
+Processing PagesController#about (for 127.0.0.1 at 2009-04-29 00:36:00) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/pages/about]
+
+
+Processing PagesController#about (for 127.0.0.1 at 2009-04-29 00:40:36) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/pages/about]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-29 00:40:36) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/learningrails.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing PagesController#about (for 127.0.0.1 at 2009-04-29 00:40:37) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/about]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-29 00:40:37) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/learningrails.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing PagesController#about (for 127.0.0.1 at 2009-04-29 00:40:37) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/pages/about]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-29 00:40:37) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/learningrails.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing PagesController#about (for 127.0.0.1 at 2009-04-29 00:40:37) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/pages/about]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-29 00:40:37) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/learningrails.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing PagesController#about (for 127.0.0.1 at 2009-04-29 00:40:38) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/pages/about]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-29 00:40:38) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/learningrails.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing PagesController#about (for 127.0.0.1 at 2009-04-29 00:40:38) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/pages/about]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-29 00:40:38) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/learningrails.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing PagesController#contact (for 127.0.0.1 at 2009-04-29 00:40:40) [GET]
+Rendering template within layouts/application
+Rendering pages/contact
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/pages/contact]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-29 00:40:40) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/learningrails.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing PagesController#resources (for 127.0.0.1 at 2009-04-29 00:40:40) [GET]
+Rendering template within layouts/application
+Rendering pages/resources
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/pages/resources]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-29 00:40:40) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/learningrails.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing PagesController#home (for 127.0.0.1 at 2009-04-29 00:40:41) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Completed in 6ms (View: 2, DB: 0) | 200 OK [http://localhost/pages/home]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-29 00:40:41) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/learningrails.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing PagesController#home (for 127.0.0.1 at 2009-04-29 00:41:46) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/pages/home]
+
+
+Processing PagesController#about (for 127.0.0.1 at 2009-04-29 00:41:49) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Completed in 5ms (View: 2, DB: 0) | 200 OK [http://localhost/pages/about]
+
+
+Processing PagesController#contact (for 127.0.0.1 at 2009-04-29 00:41:50) [GET]
+Rendering template within layouts/application
+Rendering pages/contact
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/pages/contact]
+
+
+Processing PagesController#resources (for 127.0.0.1 at 2009-04-29 00:41:51) [GET]
+Rendering template within layouts/application
+Rendering pages/resources
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/pages/resources]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2009-04-29 00:41:51) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Completed in 8ms (View: 2, DB: 0) | 200 OK [http://localhost/pages/home]
+
+
+Processing PagesController#resources (for 127.0.0.1 at 2009-04-29 00:41:58) [GET]
+Rendering template within layouts/application
+Rendering pages/resources
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/resources]
+
+
+Processing PagesController#about (for 127.0.0.1 at 2009-04-29 00:41:59) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/about]
+
+
+Processing PagesController#contact (for 127.0.0.1 at 2009-04-29 00:42:00) [GET]
+Rendering template within layouts/application
+Rendering pages/contact
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/pages/contact]
+
+
+Processing PagesController#contact (for 127.0.0.1 at 2009-04-29 00:42:06) [GET]
+Rendering template within layouts/application
+Rendering pages/contact
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/contact]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2009-04-29 00:42:08) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/home]
+
+
+Processing PagesController#about (for 127.0.0.1 at 2009-04-29 00:42:09) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/about]
+
+
+Processing PagesController#contact (for 127.0.0.1 at 2009-04-29 00:42:10) [GET]
+Rendering template within layouts/application
+Rendering pages/contact
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/pages/contact]
+
+
+Processing PagesController#contact (for 127.0.0.1 at 2009-04-29 00:43:19) [GET]
+Rendering template within layouts/application
+Rendering pages/contact
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/pages/contact]
+
+
+Processing PagesController#contact (for 127.0.0.1 at 2009-04-29 00:43:20) [GET]
+Rendering template within layouts/application
+Rendering pages/contact
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/pages/contact]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2009-04-29 00:43:21) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/pages/home]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2009-04-29 00:43:47) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/pages/home]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2009-04-29 00:43:48) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/pages/home]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2009-04-29 00:43:48) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/pages/home]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2009-04-29 00:43:48) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/pages/home]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2009-04-29 00:43:48) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/pages/home]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2009-04-29 00:43:48) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Completed in 6ms (View: 2, DB: 0) | 200 OK [http://localhost/pages/home]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2009-04-29 00:43:49) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/pages/home]
+
+
+Processing PagesController#about (for 127.0.0.1 at 2009-04-29 00:43:49) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/about]
+
+
+Processing PagesController#contact (for 127.0.0.1 at 2009-04-29 00:43:51) [GET]
+Rendering template within layouts/application
+Rendering pages/contact
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/pages/contact]
+
+
+Processing PagesController#resources (for 127.0.0.1 at 2009-04-29 00:43:51) [GET]
+Rendering template within layouts/application
+Rendering pages/resources
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/pages/resources]
+
+
+Processing PagesController#resources (for 127.0.0.1 at 2009-04-29 00:44:01) [GET]
+Rendering template within layouts/application
+Rendering pages/resources
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/pages/resources]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2009-04-29 00:44:01) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Completed in 7ms (View: 2, DB: 0) | 200 OK [http://localhost/pages/home]
+
+
+Processing PagesController#resources (for 127.0.0.1 at 2009-04-29 00:44:06) [GET]
+Rendering template within layouts/application
+Rendering pages/resources
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/pages/resources]
+
+
+Processing PagesController#about (for 127.0.0.1 at 2009-04-29 00:44:10) [GET]
+Rendering template within layouts/application
+Rendering pages/about
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/pages/about]
+
+
+Processing PagesController#contact (for 127.0.0.1 at 2009-04-29 00:44:10) [GET]
+Rendering template within layouts/application
+Rendering pages/contact
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/pages/contact]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2009-04-29 00:45:52) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/pages/home]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2009-04-29 00:45:57) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/]
